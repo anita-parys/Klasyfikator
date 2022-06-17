@@ -4,3 +4,4 @@ Zbiór danych zawiera informacje dotyczące sportowców biorących udział w Igr
 
 Projekt oparty jest o implementację algorytmu k-najbliższych sąsiadów, który został użyty w celu klasyfikacji. 
 Na podstawie parametrów takich jak waga i wzrost algorytm ma sklasyfikować czy dany sportowiec uprawia gimnastykę czy koszykówkę. 
+Dokładność klasyfikatora poddano ocenie przy pomocy macierzy pomyłek.
